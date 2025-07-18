@@ -1,0 +1,10 @@
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\bin\Debug\DetectiveStory.exe.config
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\bin\Debug\DetectiveStory.exe
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\bin\Debug\DetectiveStory.pdb
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\obj\Debug\DetectiveStory.csproj.AssemblyReference.cache
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\obj\Debug\DetectiveStory.detectivegame_Form.resources
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\obj\Debug\DetectiveStory.Properties.Resources.resources
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\obj\Debug\DetectiveStory.csproj.GenerateResource.cache
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\obj\Debug\DetectiveStory.csproj.CoreCompileInputs.cache
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\obj\Debug\DetectiveStory.exe
+C:\Users\AL REHMAN LAPTOPS\source\repos\DetectiveStory\DetectiveStory\obj\Debug\DetectiveStory.pdb
